@@ -1,4 +1,4 @@
-# Patos personales
+# Datos personales
 
 •	**Institución:** Universidad politécnica de San Luis Potosí
 
@@ -41,7 +41,7 @@ Por lo anterior es que se acudió a utilizar la colección HashSet que se rige p
 
 k1 == k2 -> hash (k1) == hash (k2)
 
-Es decir que, si dos claves son iguales, sus valores hash deben ser iguales. Por esto,  un elemento que entra a la colección obtiene su posisión determinada por el Hash code, determinando su igualdad, y d esta manera cumplor .
+Es decir que, si dos claves son iguales, sus valores hash deben ser iguales. Por esto,  un elemento que entra a la colección obtiene su posición determinada por el Hash code, determinando su igualdad, y de esta manera cumplir .
 
 ### Comandos para ejecutar las operaciones.
 •	*Definir un conjunto*
