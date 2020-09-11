@@ -10,6 +10,8 @@
 
 •	**Materia:** Teoría computacional
 
+•	**Docente:** Juan Carlos González Ibarra 
+
 
 # Objetivos 
 1.	En este programa se aborda lo esencial dentro de las operaciones de conjuntos en el lenguaje de programación Rust.
