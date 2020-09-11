@@ -3,9 +3,16 @@
  *---------------------------------------------------------*/
 
 /* *****************************************************************************
- *  Name:    Alan Turing
- *  NetID:   aturing
+ *  Universidad Politecnica de San Luis Potosí
+ *  Ingeniería en Tecnologías de Información
+ *  Name:    Juan Humberto Herrera Martínez
+ *  Enrollment: 170201
+ *  NetID:   JuanH13
  *  Precept: P00
+ *
+ *  Teoría Computacional
+ *  By: Juan Carlos González Ibarra
+ *
  *
  *  Description:  Exemplifies the way sets are operated 
  *                in the Rust programming language
@@ -53,7 +60,7 @@ fn main()
     superconjunto();
 }
 
-//Pertenencia
+//Belonging
 fn pertenencia()
 {
     let a: HashSet<_> = [1, 2, 3, 4, 5].iter().collect();
