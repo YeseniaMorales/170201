@@ -161,7 +161,8 @@ fn copiar()
 •	*Agregar elemento a un conjunto*
 
 
-```Rust//Agregar un elemento
+```Rust
+//Agregar un elemento
 fn agregar()
 {
     // Set declaration
